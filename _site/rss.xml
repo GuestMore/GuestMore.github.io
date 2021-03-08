@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>cobalt blog</title><link>http://localhost:3000</link><description>Blog Posts Go Here</description><item><title>First Post</title><link>http://localhost:3000/posts/post-1.html</link><description><![CDATA[<h1>This is our first Post!</h1>
-]]></description><guid>http://localhost:3000/posts/post-1.html</guid></item><item><title>Red and Orange</title><link>http://localhost:3000/posts/red-and-orange.html</link><description><![CDATA[<h1>Apples are red, oranges are orange.</h1>
-]]></description><guid>http://localhost:3000/posts/red-and-orange.html</guid></item></channel></rss>
