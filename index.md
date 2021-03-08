@@ -1,7 +1,7 @@
 ---
 layout: default.liquid
 ---
-## My Blog!
+## My cool Blog!
 
 {% for post in collections.posts.pages %}
 #### {{post.title}}
